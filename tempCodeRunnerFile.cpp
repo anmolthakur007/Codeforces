@@ -1,9 +1,1 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-int main()
-{
-    int t;
-    cin >> t;
-
-    int q
+b.push_back(a[0]);
